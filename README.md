@@ -1,2 +1,2 @@
 # breccia
-Painless cross language programming
+Painless polyglot programming
